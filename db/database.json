@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "5145",
+      "email": "aleja@gmail.com",
+      "password": "User123*"
+    },
+    {
+      "id": "de72",
+      "email": "aleja5@gmail.com",
+      "password": "User123*"
+    }
+  ],
+  "authors": [
+    {
+      "id": "190f",
+      "name": "Cassandra Clare",
+      "age": "50"
+    },
+    {
+      "id": "3225",
+      "name": "Valeria",
+      "age": "20"
+    }
+  ],
+  "books": [
+    {
+      "id": "df95",
+      "name": "Shadow Hunter",
+      "date": "2024-01-04",
+      "authorId": "190f"
+    }
+  ]
+}
